@@ -1,0 +1,31 @@
+{
+  "name": "achs_client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.1.0",
+    "@heroicons/react": "^2.1.4",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "axios": "^1.7.2",
+    "next": "14.2.4",
+    "next-auth": "^4.24.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-scroll": "^1.9.0",
+    "react-slick": "^0.30.2",
+    "react-use": "^17.5.0",
+    "slick-carousel": "^1.8.1",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
